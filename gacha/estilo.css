@@ -4,13 +4,14 @@ body {
 	background: #121212;
 }
 
-h2 {
-	color:#04A9D3;
-
-}
-
 .sylphyn {
-	width: 400px;
 
+	width: 200px;
+	height: auto;
 }
 
+.genshin {
+
+	width: 400px;
+	height: auto;
+}
