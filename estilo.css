@@ -10,7 +10,15 @@ h2 {
 }
 
 .sylphyn {
-	width: 400px;
 
+	width: 400px;
+	height: auto;
+
+}
+
+.sylphynlinda {
+
+	width: 400px;
+	height: auto;
 }
 
