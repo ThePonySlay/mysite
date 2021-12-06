@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /8vc6j02mq1cia44j7c7.html
