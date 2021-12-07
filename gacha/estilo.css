@@ -1,7 +1,8 @@
 body {
+	text-align: center;
         font-size: 14pt;	
 	color: #FFFFFF;
-	background: #121212;
+	background-image: url('star.gif');
 }
 
 .sylphyn {
