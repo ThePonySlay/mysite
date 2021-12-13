@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+        font-size: 14pt;	
+	color: #FFFFFF;
+	background-image: url('star.gif');
+}
+
+.sylphyn {
+
+	width: 200px;
+	height: auto;
+}
+
+.genshin {
+
+	width: 400px;
+	height: auto;
+}
